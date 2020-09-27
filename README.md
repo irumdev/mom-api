@@ -17,8 +17,3 @@
 2. Bcrypt - 비밀번호 단방향 암호화에 사용
 3. Jsonschema - 사용자 입력값 유효성 검증을 위해 사용
 4. Pymysql - MySql DB연동을 위해 사용
-
-## DEMO
-
-- 아래 호스트로 API를 실제로 호출해 볼 수 있습니다.  
-   run.kzz.kr:5000
